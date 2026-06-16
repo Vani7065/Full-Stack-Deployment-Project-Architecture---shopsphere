@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://full-stack-deployment-project-rog0.onrender.com/api"
 });
